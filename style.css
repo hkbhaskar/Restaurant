@@ -160,7 +160,7 @@ html{
     position: relative;
 }
 #contact::before{
-    background: url('/restaurant/contact.jpg') no-repeat center center/cover;
+    background: url('/restaurant/bg.jpg') no-repeat center center/cover;
     content: "";
     position: absolute;
     width: 100%;
